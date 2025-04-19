@@ -1,0 +1,14 @@
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\bin\Debug\net9.0\LED.exe
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\bin\Debug\net9.0\LED.deps.json
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\bin\Debug\net9.0\LED.runtimeconfig.json
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\bin\Debug\net9.0\LED.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\bin\Debug\net9.0\LED.pdb
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.AssemblyInfoInputs.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.AssemblyInfo.cs
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\refint\LED.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.pdb
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\LED.genruntimeconfig.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\LED\obj\Debug\net9.0\ref\LED.dll

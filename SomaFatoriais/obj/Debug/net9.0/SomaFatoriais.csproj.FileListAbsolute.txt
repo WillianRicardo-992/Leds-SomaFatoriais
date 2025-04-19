@@ -1,0 +1,14 @@
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\bin\Debug\net9.0\SomaFatoriais.exe
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\bin\Debug\net9.0\SomaFatoriais.deps.json
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\bin\Debug\net9.0\SomaFatoriais.runtimeconfig.json
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\bin\Debug\net9.0\SomaFatoriais.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\bin\Debug\net9.0\SomaFatoriais.pdb
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.AssemblyInfoInputs.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.AssemblyInfo.cs
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\refint\SomaFatoriais.dll
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.pdb
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\SomaFatoriais.genruntimeconfig.cache
+C:\Users\Ricar\OneDrive\Área de Trabalho\Projetos\Projeto-C#\Projetos\SomaFatoriais\obj\Debug\net9.0\ref\SomaFatoriais.dll
